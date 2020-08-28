@@ -1,0 +1,8 @@
+build/*
+dist/*
+main.exe_extracted/*
+__pycache__/*
+main.spec
+my_super_modules/__pycache__/*
+.venv
+.vscode/
